@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Executables
+*.jar
+
+#release plugin files
+release.properties
+pom.xml.releaseBackup
+
+#shade plugin files
+dependency-reduced-pom.xml
